@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f35d453-c397-4bb2-9f6f-6e282e838684" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/franciellendias/screenmatch/modelos/Filme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705704677694</updated>
     </task>
+    <task id="LOCAL-00001" summary="Classe Filme">
+      <option name="closed" value="true" />
+      <created>1706638257531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706638257531</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classe Filme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classe Filme" />
   </component>
 </project>
