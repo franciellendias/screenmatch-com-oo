@@ -1,4 +1,5 @@
 import br.com.franciellendias.screenmatch.modelos.Filme;
+import br.com.franciellendias.screenmatch.modelos.Serie;
 
 public class Principal {
     public static void main(String[] args) {
@@ -13,6 +14,8 @@ public class Principal {
         meuFilme.avalia(10);
         System.out.println(meuFilme.pegaMedia());
         System.out.println("Total de avaliações: " + meuFilme.getTotalDeAvaliacoes());
+
+        Serie serie = new Serie();
 
     }
 
